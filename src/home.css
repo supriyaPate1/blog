@@ -1,0 +1,31 @@
+.HomeMain{
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(136, 61, 170);
+    margin-top: -5%;
+}
+.homeContent{
+   width: 60%;
+   margin: auto;
+   margin-top: 5%;
+   text-align: center;
+   padding-top: 10%;
+   padding-bottom: 5%;
+}
+.homeContent button{
+   width: 25%;
+   padding: 1.1%;
+   font-size: 1.1vw;
+   color: white;
+   border-radius: 5px;
+   cursor: pointer;
+   border: 1px solid orangered;
+   background-color: orangered;
+}
+.homeContent button:hover{
+    border: 1px solid rgb(247, 116, 8);
+    background-color:rgb(247, 116, 8);
+}
+.homeContent h2, h5{
+    color: white;
+}
